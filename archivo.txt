@@ -1,1 +1,3 @@
+Archivo de cambio en la rama editar
+
 este es el archivo editado desde la rama master
